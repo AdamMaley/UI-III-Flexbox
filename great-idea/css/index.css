@@ -286,4 +286,38 @@ h1, h2, h3, h4, h5 {
 	.services-info-img {
 		margin: 20px;
 	}
+
+	/* About Page */
+	.about-main {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+		
+		
+	}
 	
+	.our-mission {
+		width: 100%;
+		margin: 30px;
+		font-size: 32px;
+		
+		text-align: center;
+	}
+
+	.about-bottom {
+		border-bottom: 1px solid black;
+		
+	}
+
+	.about-bottom h3{
+		
+		margin: 20px;
+		text-align: center;
+		font-size: 18px;
+	}
+
+	.about-bottom p{
+		margin: 20px;
+		
+	}
